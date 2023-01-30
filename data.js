@@ -271,6 +271,13 @@ export const catsData = [
         image: "zafiro_wokenup.jpg",
         alt: "A cat looking sad",
     },
+
+    {
+        emotionTags: ["insomniac", "scared"],
+        isGif: true,
+        image: "maly_zafirek.jpg",
+        alt: "A cat looking insomniac",
+    },
     
 
 
